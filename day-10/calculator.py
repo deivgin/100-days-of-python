@@ -32,8 +32,7 @@ def pick_action():
 
 def calculate(n1: int, n2: int, action: str) -> int:
   """Calculate the result of an operation"""
-  action = actions[action]
-  return action(n1, n2)
+  return actions[action](n1, n2)
 
 def calculator(initial_result = None):
     num1 = int(input("Enter the first number: ")) if initial_result == None else initial_result
