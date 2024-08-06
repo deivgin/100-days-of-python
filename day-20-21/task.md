@@ -16,3 +16,11 @@ Day 2:
 2. Create a score bord
 3. Detect wall collision
 4. Detect collision with tail
+
+## Personal goals for this project
+
+- This is the first project in which I can sort of start practicing the design aspect of apps.
+- For this reason I would also like to:
+
+1. Create a detailed requirement first draft
+2. a UML diagram of the app architecture
